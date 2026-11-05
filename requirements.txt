@@ -1,0 +1,6 @@
+requests
+pandas
+apscheduler
+streamlit
+aiohttp
+pyngrok
